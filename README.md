@@ -1,10 +1,10 @@
 # Quotes App v2.0 Using Flutter
 This is a Bengali quotes app created by using Flutter for beginners.
 # Android apk available in Google Playstore
-https://play.google.com/store/apps/details?id=com.mohammadsaif.bangla_quotes
+//https://play.google.com/store/apps/details?id=com.mohammadsaif.bangla_quotes
 
-<img src="screenshot/Google Pixel 3 5.5-inch Display (1080 x 2160) Screenshot 0.png" width=400><img src="screenshot/QuotesApp2.jpg" width=400>
-<img src="screenshot/Google Pixel 3 5.5-inch Display (1080 x 2160) Screenshot 1.png" width=400><img src="screenshot/QuotesApp4.jpg" width=400>
+<img src="screenshot/Google Pixel 3 5.5-inch Display (1080 x 2160) Screenshot 0.png" width=200, height=400><img src="screenshot/Google Pixel 3 5.5-inch Display (1080 x 2160) Screenshot 1.png" width=200, height=400>
+<img src="screenshot/Google Pixel 3 5.5-inch Display (1080 x 2160) Screenshot 3.png" width=200, height=400><img src="screenshot/Google Pixel 3 5.5-inch Display (1080 x 2160) Screenshot 4.png" width=200, height=400>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
