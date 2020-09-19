@@ -4,7 +4,7 @@ This is a Bengali quotes app created by using Flutter for beginners.
 //https://play.google.com/store/apps/details?id=com.mohammadsaif.bangla_quotes
 
 <img src="screenshot/Google Pixel 3 5.5-inch Display (1080 x 2160) Screenshot 0.png" width=200, height=400><img src="screenshot/Google Pixel 3 5.5-inch Display (1080 x 2160) Screenshot 1.png" width=200, height=400>
-<img src="screenshot/Google Pixel 3 5.5-inch Display (1080 x 2160) Screenshot 3.png" width=200, height=400><img src="screenshot/Google Pixel 3 5.5-inch Display (1080 x 2160) Screenshot 4.png" width=200, height=400>
+<img src="screenshot/Google Pixel 3 5.5-inch Display (1080 x 2160) Screenshot 2.png" width=200, height=400><img src="screenshot/Google Pixel 3 5.5-inch Display (1080 x 2160) Screenshot 3.png" width=200, height=400><img src="screenshot/Google Pixel 3 5.5-inch Display (1080 x 2160) Screenshot 4.png" width=200, height=400>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
